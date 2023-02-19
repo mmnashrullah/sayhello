@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Sayhello
+Version: 1.0.0
+Summary: Just Say hello
+Home-page: https://github.com/mmnashrulloh/sayhello
+Author: Maulana Malik Nashrulloh
+Author-email: mmnashrullah@gmail.com
+Project-URL: Bug Tracker, https://github.com/mmnashrulloh/sayhello/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Sayhello
+
+Just say hello to user!
+
+Versi 1.0.0

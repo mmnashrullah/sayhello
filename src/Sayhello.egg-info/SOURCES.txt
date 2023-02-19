@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+setup.py
+src/Sayhello.egg-info/PKG-INFO
+src/Sayhello.egg-info/SOURCES.txt
+src/Sayhello.egg-info/dependency_links.txt
+src/Sayhello.egg-info/top_level.txt
